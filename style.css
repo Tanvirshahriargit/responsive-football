@@ -104,6 +104,21 @@ header{
 .player-title{
     font-size: 28px;
 }
+/* ---------Bounsh sections Styles-------- */
+
+/* Bonush Videos Sections */
+.video-section h2{
+    color: blue;
+    font-size: 64px;
+}
+/* Bonush Sign-up Sections */
+.sign-up{
+    width: 100%;
+    background-color: blue;
+    color: white;
+    padding: 20px;
+    margin: 100px 0px 100px 0px ;
+}
 
 /* Footer styles */
 footer{
